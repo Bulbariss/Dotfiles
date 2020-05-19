@@ -1,0 +1,23 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "alt+cmd+,",
+        "command": "workbench.action.openSettingsJson"
+    },
+    {
+        "key": "ctrl+cmd+b",
+        "command": "workbench.action.toggleActivityBarVisibility"
+    },
+    {
+        "key": "ctrl+shift+up",
+        "command": "editor.emmet.action.balanceIn"
+    },
+    {
+        "key": "ctrl+shift+down",
+        "command": "editor.emmet.action.balanceOut"
+    },
+    {
+        "key": "shift+alt+w",
+        "command": "editor.emmet.action.wrapWithAbbreviation"
+    }
+]

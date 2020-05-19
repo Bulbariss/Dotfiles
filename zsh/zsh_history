@@ -1,0 +1,904 @@
+: 1588354943:0;npm install --global pure-prompt
+: 1588354957:0;sudo
+: 1588354963:0;sudo npm install --global pure-prompt
+: 1588355046:0;$ npm install --global pure-prompt
+: 1588355058:0;npm
+: 1588355095:0;sudo
+: 1588355098:0;npm install --global pure-prompt
+: 1588355117:0;sudo chown -R $USER /usr/local/lib/node_modules
+: 1588355123:0;npm install --global pure-prompt
+: 1588355151:0;autoload -U promptinit; promptinit\
+prompt pure
+: 1588355631:0;nano ~/.zshrc
+: 1588357008:0;clear
+: 1588357662:0;npm install â€ƒ´global pure-prompt
+: 1588357704:0;npm install â€ƒ´global pure-promptmkdir -p "$HOME/.zsh"\
+git clone https://github.com/sindresorhus/pure.git "$HOME/.zsh/pure"
+: 1588357729:0;fpath+=$HOME/.zsh/pure
+: 1588357749:0;autoload -U promptinit; promptinit\
+prompt pure
+: 1588357926:0;ls
+: 1588357971:0;$homw
+: 1588357973:0;$home
+: 1588357980:0;$HOME
+: 1588358253:0;npm install â€ƒ´global pure-prompt
+: 1588358269:0;npm install -â€ƒ´global pure-prompt
+: 1588358351:0;zsh
+: 1588358370:0;npm install â€ƒ´global pure-prompt
+: 1588358388:0;npm install --global pure-prompt
+: 1588360572:0;echo 1
+: 1588360579:0;echo
+: 1588360646:0;echo 1
+: 1588360700:0;exit 1
+: 1588360756:0;git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+: 1588360764:0;echo 1
+: 1588361497:0;clear
+: 1588361705:0;echo "\ue0b0 \u00b1 \ue0a0 \u27a6 \u2718 \u26a1 \u2699"
+: 1588361771:0;ls
+: 1588361816:0;echo 1
+: 1588363434:0;echo !
+: 1588363469:0;cd Environments
+: 1588363493:0;source my_env/bin/activate
+: 1588363511:0;hello.py
+: 1588363525:0;python hello.py
+: 1588406767:0;vim
+: 1588411688:0;git push master
+: 1588411766:0;git push -u origin master\
+
+: 1588413346:0;vimtutor
+: 1588429922:0;cd Dela\ Delovie
+: 1588429945:0;cd My\ Knowledge
+: 1588429949:0;ls
+: 1588429953:0;cd My-Knowledge
+: 1588429961:0;ls
+: 1588429971:0;vim SUMMARY.md
+: 1588430029:0;vimtutor
+: 1588434388:0;vim -help
+: 1588434438:0;vim :help
+: 1588434591:0;ls
+: 1588434614:0;rm :help
+: 1588434623:0;vim :help
+: 1588435347:0;vim helo
+: 1588440072:0;brew install neovim
+: 1588440489:0;curl -fLo ~/.local/share/nvim/site/autoload/plug.vim - create-dirs \\
+ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+: 1588440559:0;curl -fLo ~/.local/share/nvim/site/autoload/plug.vim â€ƒ´ create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+: 1588440670:0;vim ~/.local/share/nvim/site/autoload/plug.vim
+: 1588440802:0;nvim
+: 1588440908:0;mkdir ~/.config/nvim
+: 1588440948:0;clear
+: 1588440999:0;vim ~/.config/nvim/init.vim
+: 1588441423:0;vim 
+: 1588441442:0;vim tutor
+: 1588441485:0;vim ~/.local/share/nvim/site/autoload/plug.vim
+: 1588441640:0;nvim ~/.config/nvim/init.vim
+: 1588442017:0;nvim tst
+: 1588444902:0;brew install fontforge
+: 1588445128:0;./font-patcher ~/otf
+: 1588445244:0;./fontforge -script font-patcher ~/otf 
+: 1588445325:0;font-patcher
+: 1588445333:0;font-patcher -help
+: 1588445368:0;fontforge
+: 1588445508:0;python3 font-patcher ~/otf
+: 1588445535:0;brew font-patcher ~/otf
+: 1588445563:0;brew ./font-patcher ~/otf
+: 1588445579:0;python ./font-patcher ~/otf
+: 1588445612:0;cd Environments
+: 1588445618:0;source my_env/bin/activate
+: 1588445669:0;pip3 install fontforge
+: 1588445708:0;pip3 install python-fontforge
+: 1588445727:0;brew fontforge
+: 1588445748:0;font-patcher
+: 1588445755:0;\
+
+: 1588445761:0;[200~font-patcher~
+: 1588445768:0;font-patcher
+: 1588445772:0;fontforge
+: 1588445832:0;./font-patcher Inconsolata.otf
+: 1588445868:0;-script font-patcher PATH_TO_FONT
+: 1588445879:0;font-patcher -h
+: 1588445893:0;fontforge -h
+: 1588446030:0;git clone https://aur.archlinux.org/nerd-fonts-fira-code.git
+: 1588446060:0;cd nerd-fonts-fira-code
+: 1588446348:0;brew uninstall fontforge
+: 1588446503:0;nvim
+: 1588447055:0;brew install the_silver_searcher~
+: 1588447074:0;brew install the_silver_searcher
+: 1588491744:0;nvim /Users/vova/.config/nvim/init.vim 
+: 1588492129:0;nvim ~/.config/nvim/coc-settings.json
+: 1588493013:0;nvim test
+: 1588493317:0;nodejs -v
+: 1588493321:0;node-js -v
+: 1588493338:0;node -v
+: 1588493572:0;npm install -g neovim
+: 1588494378:0;nvim 
+: 1588494393:0;nvim /Users/vova/.config/nvim/init.vim 
+: 1588494469:0;nvim
+: 1588494895:0;nvim /Users/vova/.config/nvim/init.vim 
+: 1588495167:0;nvim test
+: 1588495574:0;nvim tets.html
+: 1588500282:0;npm install -g neovim
+: 1588500287:0;nvim tets.html
+: 1588500807:0;nvim /Users/vova/.config/nvim/init.vim 
+: 1588500869:0;nvim tets.html
+: 1588501956:0;nvim /Users/vova/.config/nvim/init.vim 
+: 1588509526:0;nvim tets.html
+: 1588511136:0;nvim ~/.tmux.conf
+: 1588511215:0;nvim /Users/vova/.config/nvim/init.vim 
+: 1588512099:0;nvim tets.html
+: 1588512579:0;nvim /Users/vova/.config/nvim/init.vim 
+: 1588513282:0;rm  tets.html
+: 1588513285:0;nvim tets.html
+: 1588513306:0;cd Dela\ Delovie
+: 1588513326:0;cd My\ Knowledge
+: 1588513337:0;cd My-Knowledge
+: 1588513349:0;ls
+: 1588513372:0;nvim README.md
+: 1588513753:0;nvim /Users/vova/.config/nvim/init.vim 
+: 1588513789:0;vim s
+: 1588513871:0;ls
+: 1588513879:0;nvim /Users/vova/.config/nvim/init.vim 
+: 1588514288:0;vim s
+: 1588515171:0;cd Dela\ Delovie
+: 1588515179:0;cd My\ Knowledge
+: 1588515186:0;cd My-Knowledge
+: 1588515199:0;cd Web\ Dev\ Resources
+: 1588515202:0;ls
+: 1588515225:0;nvim web_dev_resources_intro.md
+: 1588515412:0;cd ..
+: 1588515418:0;vim
+: 1588515426:0;nvim
+: 1588579360:0;nvim /Users/vova/.config/nvim/init.vim 
+: 1588580176:0;cd ./config
+: 1588580225:0;cd .config
+: 1588580234:0;git init
+: 1588581153:0;git add coc
+: 1588581231:0;git remove coc
+: 1588581236:0;git -h
+: 1588581298:0;git rm coc
+: 1588581308:0;git rm coc -r
+: 1588581380:0;git rm -r coc 
+: 1588581488:0;nvim .gitignore
+: 1588581512:0;git add coc
+: 1588581517:0;git init 
+: 1588581524:0;git add coc
+: 1588581537:0;git add nvim
+: 1588581556:0;git add karabiner
+: 1588581563:0;git add karabiner.edn
+: 1588581597:0;git commit -m "first commit"
+: 1588581632:0;git remote add origin https://github.com/Bulbariss/Dotfiles.git
+: 1588581638:0;git push -u origin master
+: 1588582195:0;nvim r
+: 1588584677:0;nvim /Users/vova/.config/nvim/init.vim 
+: 1588585875:0;nvim
+: 1588586076:0;nvim /Users/vova/.config/nvim/init.vim 
+: 1588586702:0;nvim r
+: 1588586747:0;ls
+: 1588587321:0;nvim Web\ Dev\ Resources/colors.md
+: 1588598035:0;ls
+: 1588598043:0;cd Dela\ Delovie
+: 1588598048:0;cd My k
+: 1588598055:0;cd My\ Knowledge
+: 1588598061:0;cd My-Knowledge
+: 1588598092:0;nvim fonts/inter.md
+: 1588604006:0;cd De
+: 1588604009:0;cd Dela\ Delovie
+: 1588604013:0;cd My\ Knowledge
+: 1588604018:0;cd M
+: 1588604021:0;cd My-Knowledge
+: 1588604030:0;git add . 
+: 1588604064:0;git commit -m 'Added content'
+: 1588604081:0;git push master origin
+: 1588604094:0;git push 
+: 1588604882:0;git add . 
+: 1588604901:0;git commit -m 'Changed summary'
+: 1588604903:0;git push 
+: 1588605813:0;git add . 
+: 1588605818:0;git commit -m 'Changed summary'
+: 1588605822:0;git push 
+: 1588606095:0;ls
+: 1588606103:0;cd nvim
+: 1588606106:0;ls
+: 1588606114:0;nvim init.vim
+: 1588606250:0;nvim fonts/inter.md
+: 1588606418:0;git add . 
+: 1588606450:0;git commit -m 'Fixed mistakes'
+: 1588606458:0;git push
+: 1588607509:0;git add . 
+: 1588607520:0;git commit -m 'better categories'
+: 1588607524:0;git push
+: 1588614356:0;fzf
+: 1588614391:0;cd ..
+: 1588614397:0;fzf
+: 1588614522:0;nvim ~/.config/**
+: 1588620347:0;nvim init.vim
+: 1588620817:0;nvim fonts/inter.md
+: 1588621228:0;nvim init.vim
+: 1588666379:0;npm i swiper
+: 1588666465:0;:q
+: 1588666962:0;npm run start
+: 1588689398:0;:
+: 1588689417:0;cd ~/
+: 1588689422:0;ls
+: 1588689430:0;cd Environments
+: 1588689454:0;my_env/bin/activate
+: 1588689466:0;source my_env/bin/activate
+: 1588689475:0;python hello.py
+: 1588689521:0;cd ~
+: 1588689525:0;cd Environments
+: 1588689534:0;nvim hello.py
+: 1588689664:0;:q
+: 1588689666:0;q
+: 1588689740:0;python hello.py
+: 1588692789:0;nvim hello.py
+: 1588693138:0;python hello.py
+: 1588695803:0;git add .
+: 1588695851:0;git commit -m 'Added disabled buttons, changed colors and paddings'
+: 1588696314:0;python hello.py
+: 1588696813:0;cd ~
+: 1588696819:0;cd Dela\ Delovie
+: 1588696824:0;cd My\ Knowledge
+: 1588696828:0;cd My-Knowledge
+: 1588696839:0;cd fonts
+: 1588697644:0;npm i --D react-cosmos
+: 1588697683:0;npm 
+: 1588697694:0;npm init
+: 1588697726:0;npm i --D react-cosmos
+: 1588697845:0;npm run cosmos
+: 1588697872:0;npm 
+: 1588697983:0;npm i --D react-cosmos
+: 1588698024:0;npm uninstall react-cosmos
+: 1588698033:0;npm i --D react-cosmos
+: 1588698175:0;npm i react
+: 1588698257:0;npm run cosmos
+: 1588698273:0;npm install --save-dev webpack
+: 1588698336:0;npm run cosmos
+: 1588698382:0;npm i react-dom
+: 1588698401:0;npm run cosmos
+: 1588700805:0;npm i
+: 1588701567:0;npx -p @storybook/cli sb init
+: 1588701983:0;sb init
+: 1588702108:0;npm run storybook
+: 1588703324:0;npm i simplex-noise
+: 1588703421:0;npm run storybook
+: 1588703810:0;npm i styled-jsx
+: 1588703928:0;npm i --save-dev @storybook/addon-viewport\
+
+: 1588704094:0;npm run storybook
+: 1588751387:0;npm u
+: 1588751391:0;npm i
+: 1588752919:0;gatsby develop
+: 1588944612:0;[<65;106;31M65;106;31M65;106;31M65;106;31M65;106;31M65;106;31M65;106;31M65;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;30M64;106;31M64;106;31M65;106;31M65;106;31M65;106;31M65;106;31M65;106;31M65;106;31M65;106;31M65;106;31M65;106;31M65;106;31M65;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M65;106;31M65;106;31M65;106;31M65;106;31M65;106;31M65;106;31M65;106;31M65;106;31M65;106;31M65;106;31M65;106;31M65;106;31M65;106;31M65;106;31M65;106;31M65;106;31M65;106;31M65;106;31M65;106;31M65;106;31M65;106;31M65;106;31M65;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M64;106;31M
+: 1588944620:0;64;81;26M64;81;26M64;81;26M64;81;26M64;81;26M64;81;26M64;81;26M64;81;26M64;81;26M64;81;26M64;81;26M64;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;25M65;81;25M65;81;25M65;81;25M65;81;25M65;81;25M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M65;81;26M6
+: 1588944629:0;ls
+: 1588944674:0;nvim inter.md
+: 1588947874:0;fzf
+: 1588947932:0;brew install fzf
+: 1588948094:0;clear
+: 1588948139:0;cd ..
+: 1588948145:0;git add .
+: 1588948172:0;git commit -m 'Added a bunch of fonts'
+: 1588948185:0;git commit
+: 1588948227:0;git push
+: 1588949686:0;cd vim
+: 1588949694:0;nvim vim.md
+: 1588954258:0;git add .
+: 1588954269:0;git commit -m 'Added vim folder'
+: 1588954279:0;git push
+: 1588954686:0;cd ..
+: 1588954692:0;nvim SUMMARY.md
+: 1588954740:0;git add .
+: 1588954754:0;git commit -m 'Changed summary'
+: 1588954761:0;git push
+: 1588954848:0;cd vim
+: 1588954856:0;nvim vim.md
+: 1588955221:0;git add .
+: 1588955250:0;git commit -m 'Changed hor mov file'
+: 1588955253:0;git push
+: 1588955291:0;nvim vim.md
+: 1588955769:0;cd De
+: 1588955774:0;cd Dela\ Delovie
+: 1588955778:0;cs My\ Knowledge
+: 1588955784:0;cd My\ Knowledge
+: 1588955787:0;cd My-Knowledge
+: 1588955798:0;git add .
+: 1588955815:0;git commit -m 'testing'
+: 1588955820:0;git push
+: 1588955991:0;git add .
+: 1588955993:0;git commit -m 'testing'
+: 1588955996:0;git push
+: 1588956110:0;git add .
+: 1588956112:0;git commit -m 'testing'
+: 1588956113:0;git push
+: 1588957788:0;git add .
+: 1588957790:0;git commit -m 'testing'
+: 1588957793:0;git push
+: 1588958125:0;git add .
+: 1588958126:0;git commit -m 'testing'
+: 1588958127:0;git push
+: 1588959204:0;nvim vim.md
+: 1588960432:0;git add .
+: 1588960434:0;git commit -m 'testing'
+: 1588960437:0;git push
+: 1588960581:0;git add .
+: 1588960583:0;git commit -m 'testing'
+: 1588960585:0;git push
+: 1588960704:0;git add .
+: 1588960705:0;git commit -m 'testing'
+: 1588960706:0;git push
+: 1588960768:0;git add .
+: 1588960770:0;git commit -m 'testing'
+: 1588960771:0;git push
+: 1588961387:0;git add .
+: 1588961389:0;git commit -m 'testing'
+: 1588961391:0;git push
+: 1589013533:0;gatsby develop
+: 1589114568:0;gatsby build
+: 1589114802:0;cd Downloads
+: 1589114816:0;cd Parallax
+: 1589114831:0;cd public
+: 1589114837:0;git init
+: 1589114843:0;git add .
+: 1589114869:0;git commit -m "initial commit"
+: 1589114908:0;git remote add origin https://github.com/Bulbariss/Party.git
+: 1589114913:0;git push -u origin master
+: 1589115810:0;gatsby develop
+: 1589130793:0;gastby clean
+: 1589130800:0;gatsby clean
+: 1589130811:0;gatsby build
+: 1589130918:0;git add .
+: 1589130935:0;git commit -m "update"
+: 1589130940:0;git push
+: 1589131135:0;gatsby serve
+: 1589131322:0;git remote add origin https://github.com/Bulbariss/tusa.git
+: 1589131354:0;git push https://github.com/Bulbariss/tusa.git
+: 1589131996:0;gatsby develop
+: 1589133570:0;gatsby build
+: 1589133760:0;git add .
+: 1589133769:0;git commit -m "update 2"
+: 1589133772:0;git push https://github.com/Bulbariss/tusa.git
+: 1589184150:0;gatsby develop
+: 1589190275:0;gatsby build
+: 1589190352:0;git add .
+: 1589190359:0;git commit -m "update 3"
+: 1589190364:0;git push https://github.com/Bulbariss/tusa.git
+: 1589190984:0;gatsby develop
+: 1589207824:0;ls
+: 1589207832:0;cd ..
+: 1589207836:0;nvim SUMMARY.md
+: 1589213256:0;cd ..
+: 1589213262:0;cd
+: 1589213273:0;cd Dela\ Delovie
+: 1589213281:0;cd My\ Knowledge
+: 1589213286:0;ls
+: 1589213309:0;mkdir utils
+: 1589213322:0;cd utils
+: 1589213334:0;nvim markdown.md
+: 1589274284:0;gatsby develop
+: 1589400142:0;nvim /Users/vova/Dela Delovie/My Knowledge/books/books_to_read.md
+: 1589400596:0;curl --silent 'https://raw.githubusercontent.com/vitorgalvao/custom-alfred-iterm-scripts/master/custom_iterm_script.applescript' | pbcopy\
+
+: 1589400665:0;nvim /Users/vova/Dela Delovie/My Knowledge/web_dev_resources/useful_links.md
+: 1589400725:0;nvim /Users/vova/Dela Delovie/My Knowledge/vim/regex_search_pattern.md
+: 1589400821:0;echo /Users/vova/Dela Delovie/My Knowledge/vim/regex_search_pattern.md
+: 1589400906:0;echo
+: 1589400926:0;echo /Users/vova/Dela Delovie/My Knowledge/web_dev_resources/useful_links.md
+: 1589400950:0;nvim /Users/vova/Dela Delovie/My Knowledge/web_dev_resources/useful_links.md
+: 1589401091:0;nvim  "/Users/vova/Dela Delovie/My Knowledge/vim/regex_search_pattern.md"
+: 1589401113:0;nvim  "/Users/vova/Dela Delovie/My Knowledge/books/books_to_read.md"
+: 1589441906:0;gatsby develop
+: 1589445533:0;gatsby build
+: 1589445639:0;gatsby clean
+: 1589445651:0;gatsby build
+: 1589445751:0;cd Downloads
+: 1589445756:0;cd Parallax
+: 1589445760:0;cd public
+: 1589445766:0;git add .
+: 1589445788:0;git commit -m 'added sequence'
+: 1589445794:0;git push
+: 1589445920:0;gatsby serve
+: 1589451954:0;nvim  "/Users/vova/Dela Delovie/My Knowledge/vim/regex_search_pattern.md"
+: 1589457441:0;cd Downloads
+: 1589457456:0;chmod 400 
+: 1589457471:0;chmod 400 myvpnkeypair.pem
+: 1589457492:0;ls
+: 1589457870:0;ssh -i myvpnkeypair.pem ec2-3-95-251-166.compute-1.amazonaws.com
+: 1589457907:0;ssh -i /myvpnkeypair.pem ec2-3-95-251-166.compute-1.amazonaws.com
+: 1589457916:0;ssh -i ./myvpnkeypair.pem ec2-3-95-251-166.compute-1.amazonaws.com
+: 1589458152:0;ssh -i '/myvpnkeypair.pem' ec2-3-95-251-166.compute-1.amazonaws.com
+: 1589458748:0;ssh
+: 1589458764:0;ssh -i "myvpnkeypair.pem" ec2-user@ec2-3-95-251-166.compute-1.amazonaws.com
+: 1589458977:0;cd Downloads
+: 1589458986:0;ssh -i "myvpnkeypair.pem" ec2-user@ec2-3-95-251-166.compute-1.amazonaws.com
+: 1589459072:0;cd Downloads
+: 1589459079:0;ssh -i "myvpnkeypair.pem" ec2-user@ec2-3-95-251-166.compute-1.amazonaws.com
+: 1589463030:0;cd Downloads
+: 1589463032:0;ssh -i "myvpnkeypair.pem" ec2-user@ec2-3-95-251-166.compute-1.amazonaws.com
+: 1589464274:0;cd Downloads
+: 1589464275:0;ssh -i "myvpnkeypair.pem" ec2-user@ec2-3-95-251-166.compute-1.amazonaws.com
+: 1589465483:0;nvim 
+: 1589466298:0;nvim /Users/vova/k/client.crt 
+: 1589466351:0;nvim /Users/vova/k/ca.key 
+: 1589466526:0;nvim ~/k/client.ovpn
+: 1589469597:0;nvim /Users/vova/k/ca.crt 
+: 1589469776:0;nvim /Users/vova/k/client.crt 
+: 1589470396:0;nvim /Users/vova/k/ta.key 
+: 1589470821:0;nvim /Users/vova/k/ca.key 
+: 1589472107:0;ssh -i "myvpnkeypair.pem" ec2-user@ec2-3-95-251-166.compute-1.amazonaws.com
+: 1589472114:0;cd Downloads
+: 1589472116:0;ssh -i "myvpnkeypair.pem" ec2-user@ec2-3-95-251-166.compute-1.amazonaws.com
+: 1589473523:0;cd Downloads
+: 1589473536:0;ssh -i "myvpnkeypair.pem" ec2-user@ec2-3-95-251-166.compute-1.amazonaws.com
+: 1589474062:0;cd Downloads
+: 1589474070:0;ssh -i "myvpnkeypair.pem" ec2-user@ec2-3-95-251-166.compute-1.amazonaws.com
+: 1589475085:0;cd ~/k
+: 1589475096:0;nvim client1.ovpn
+: 1589475208:0;sftp root@ip-172-31-34-94:client-configs/files/client1.ovpn ~/k\
+
+: 1589475269:0;sftp root@172.31.34.94:client-configs/files/client1.ovpn ~/k\
+
+: 1589475370:0;sftp root@172.31.34.94:client-configs/files/client1.ovpn ~/\
+
+: 1589475914:0;ssh -i "myvpnkeypair.pem" ec2-user@ec2-3-95-251-166.compute-1.amazonaws.com
+: 1589475950:0;sftp ec2-user@ec2-3-95-251-166.compute-1.amazonaws.com:client-configs/files/client1.ovpn ~/\
+
+: 1589476080:0;sftp -i "myvpnkeypair.pem" ec2-user@ec2-3-95-251-166.compute-1.amazonaws.com:client-configs/files/client1.ovpn ~/
+: 1589476102:0;cd dow
+: 1589476113:0;cd Downloads
+: 1589476117:0;cd ~
+: 1589476125:0;cd Downloads
+: 1589476128:0;sftp -i "myvpnkeypair.pem" ec2-user@ec2-3-95-251-166.compute-1.amazonaws.com:client-configs/files/client1.ovpn ~/
+: 1589476335:0;sftp -i "myvpnkeypair.pem" ec2-user@ec2-3-95-251-166.compute-1.amazonaws.com:~/client-configs/files/client1.ovpn ~/
+: 1589476519:0;sftp -i "myvpnkeypair.pem" ec2-user@ec2-3-95-251-166.compute-1.amazonaws.com:client-configs/files/client1.ovpn ~/k 
+: 1589477414:0;ping google.com
+: 1589477477:0;ping google.com\
+
+: 1589525953:0;y
+: 1589525958:0;nvim  "/Users/vova/Dela Delovie/My Knowledge/vim/regex_search_pattern.md"
+: 1589527180:0;nvim
+: 1589527246:0;cd Downloads
+: 1589527252:0;ssh -i "myvpnkeypair.pem" ec2-user@ec2-3-95-251-166.compute-1.amazonaws.com
+: 1589528355:0;sudo apt install openvpn
+: 1589528371:0;brew install openvpn
+: 1589528457:0;wget -P ~/ https://github.com/OpenVPN/easy-rsa/releases/download/v3.0.7/EasyRSA-3.0.7.tgz
+: 1589528566:0;brew install EasyRSA
+: 1589528617:0;brew install easy-rsa
+: 1589528760:0;cd ~/EasyRSA-3.0.7/
+: 1589528765:0;cp vars.example vars
+: 1589528772:0;nvim vars
+: 1589528852:0;./easyrsa init-pki
+: 1589528871:0;./easyrsa build-ca nopass
+: 1589529129:0;cd tmp
+: 1589529135:0;cd ~/tmp
+: 1589529172:0;nvim server.req
+: 1589529223:0;./easyrsa import-req /k/server.req server\
+
+: 1589529309:0;cd Downloads
+: 1589529352:0;sftp -i "myvpnkeypsftp -i "myvpnkeypair.pem" ec2-user@ec2-3-95-251-166.compute-1.amazonaws.com:~/client-configs/files/client1.ovpn ~/air.pem" ec2-user@ec2-3-95-251-166.compute-1.amazonaws.com
+: 1589529391:0;sftp -i "myvpnkeypair.pem" ec2-user@ec2-3-95-251-166.compute-1.amazonaws.com:~/EasyRSA-3.0.7/pki/private/server.key ~/
+: 1589529415:0;sftp -i "myvpnkeypair.pem" ec2-user@ec2-3-95-251-166.compute-1.amazonaws.com:~/EasyRSA-3.0.7/pki/private/server.req ~/
+: 1589529499:0;sftp -i "myvpnkeypair.pem" ec2-user@ec2-3-95-251-166.compute-1.amazonaws.com:server.req ~/
+: 1589529528:0;./easyrsa import-req ~/server.req server\
+
+: 1589529570:0;./easyrsa sign-req server server
+: 1589529711:0;scp pki/issued/server.crt -i "~/Downloads/myvpnkeypair.pem" ec2-user@ec2-3-95-251-166.compute-1.amazonaws.com:/tmp
+: 1589529747:0;vim pki/issued/server.crt
+: 1589529815:0;nvim pki/issued/server.crt
+: 1589529962:0;nvim pki/ca.crt
+: 1589530615:0;ssh -i "myvpnkeypair.pem" ec2-user@ec2-3-95-251-166.compute-1.amazonaws.com
+: 1589530953:0;cd ..
+: 1589530955:0;cd k
+: 1589530968:0;nvim client1.req 
+: 1589531040:0;cd ..
+: 1589531044:0;cd EasyRSA-3.0.7
+: 1589531050:0;./easyrsa import-req /k/client1.req client1
+: 1589531071:0;./easyrsa import-req ~/k/client1.req client1
+: 1589531128:0;nvim ~/k/client1.req
+: 1589531243:0;sftp -i "myvpnkeypair.pem" ec2-user@ec2-3-95-251-166.compute-1.amazonaws.com:client1.req ~/
+: 1589531264:0;./easyrsa import-req ~/client1.req client1
+: 1589531286:0;./easyrsa sign-req client client1
+: 1589533329:0;nvim pki/issued/client1.crt
+: 1589533352:0;ssh -i "myvpnkeypair.pem" ec2-user@ec2-3-95-251-166.compute-1.amazonaws.com
+: 1589538317:0;nvim
+: 1589550325:0;ssh -i "myvpnkeypair.pem" ec2-user@ec2-3-95-251-166.compute-1.amazonaws.com
+: 1589554076:0;cd Downloads
+: 1589554092:0;ssh -i "myvpnkeypair.pem" ec2-user@ec2-3-95-251-166.compute-1.amazonaws.com
+: 1589554176:0;sftp -i "myvpnkeypair.pem" ec2-user@ec2-3-95-251-166.compute-1.amazonaws.com:client1.ovpn ~/
+: 1589554600:0;nvim
+: 1589554984:0;cd Downloads
+: 1589554991:0;ssh -i "myvpnkeypair.pem" ec2-user@ec2-3-95-251-166.compute-1.amazonaws.com
+: 1589558586:0;nvim  "/Users/vova/Dela Delovie/My Knowledge/vim/vim.md"
+: 1589571101:0;nvim  "/Users/vova/Dela Delovie/My Knowledge/cheatsheets/netrw.md"
+: 1589574303:0;nvim  "/Users/vova/Dela Delovie/My Knowledge/vim/regex_search_pattern.md"
+: 1589614288:0;gatsby develop
+: 1589616359:0;nvim  "/Users/vova/Dela Delovie/My Knowledge/lists/things_to_learn.md"
+: 1589617047:0;nvim  "/Users/vova/Dela Delovie/My Knowledge"
+: 1589620653:0;nvim  "/Users/vova/Dela Delovie/My Knowledge/lists/to_do.md"
+: 1589628936:0;nvim  "/Users/vova/Dela Delovie/"
+: 1589699671:0;nvim  "/Users/vova/Dela Delovie/My Knowledge"
+: 1589700483:0;nvim /Users/vova/Library/QuickLook/QLMarkdown.qlgenerator/Contents/Resources/styles.css
+: 1589708001:0;brew install libconfig readline lua python libevent jansson\
+ export CFLAGS="-I/usr/local/include -I/usr/local/Cellar/readline/6.3.8/include"\
+ export LDFLAGS="-L/usr/local/lib -L/usr/local/Cellar/readline/6.3.8/lib"\
+ ./configure && make
+: 1589708059:0;telegram-cli -h\
+
+: 1589708201:0;bin/telegram-cli -h\
+
+: 1589708212:0;bin/telegram-cli -k <public-server-key>\
+
+: 1589708220:0;bin/telegram-cli -h\
+
+: 1589708411:0;brew install telegram-cli\
+
+: 1589708446:0;telegram-cli -h\
+
+: 1589708678:0;env CC=clang CFLAGS=-I/usr/local/include LDFLAGS=-L/usr/local/lib LUA=/usr/local/bin/lua52 LUA_INCLUDE=-I/usr/local/include/lua52 LUA_LIB=-llua-5.2 ./configure\
+ make
+: 1589708687:0;telegram-cli -h\
+
+: 1589708702:0;bin/telegram-cli
+: 1589708712:0;bin/telegram-cli -h
+: 1589710836:0;gram-cli\
+zsh: no such file or direct
+: 1589710838:0;brew install libconfig readline lua python libevent jansson\
+ export CFLAGS="-I/usr/local/include -I/usr/local/Cellar/readline/6.3.8/include"\
+ export LDFLAGS="-L/usr/local/lib -L/usr/local/Cellar/readline/6.3.8/lib"\
+ ./configure && make
+: 1589710950:0;brew install openssl
+: 1589711030:0;./configure --with-openssl=/usr/local/opt/openssl\
+\
+
+: 1589711063:0;brew install libconfig readline lua python libevent jansson\
+ export CFLAGS="-I/usr/local/include -I/usr/local/Cellar/readline/6.3.8/include"\
+ export LDFLAGS="-L/usr/local/lib -L/usr/local/Cellar/readline/6.3.8/lib"\
+ ./configure --with-openssl=/usr/local/opt/openssl && make
+: 1589711100:0;libreadline
+: 1589711127:0;brew install libreadline
+: 1589711216:0;brew install readline
+: 1589711309:0;OpenSSL
+: 1589711320:0;export CPPFLAGS="-I/usr/local/opt/openssl/include"\
+export LDFLAGS="-L/usr/local/opt/openssl/lib"
+: 1589711326:0;brew install libconfig readline lua python libevent jansson\
+ export CFLAGS="-I/usr/local/include -I/usr/local/Cellar/readline/6.3.8/include"\
+ export LDFLAGS="-L/usr/local/lib -L/usr/local/Cellar/readline/6.3.8/lib"\
+ ./configure --with-openssl=/usr/local/opt/openssl && make
+: 1589711458:0;brew install libconfig readline lua python libevent jansson\
+export CFLAGS="-I/usr/local/include -I/usr/local/Cellar/readline/6.3.8/include"\
+export CPPFLAGS="-I/usr/local/opt/openssl/include"\
+export LDFLAGS="-L/usr/local/opt/openssl/lib -L/usr/local/lib -L/usr/local/Cellar/readline/6.3.8/lib"\
+./configure && makebrew install libconfig readline lua python libevent jansson\
+export CFLAGS="-I/usr/local/include -I/usr/local/Cellar/readline/6.3.8/include"\
+export CPPFLAGS="-I/usr/local/opt/openssl/include"\
+export LDFLAGS="-L/usr/local/opt/openssl/lib -L/usr/local/lib -L/usr/local/Cellar/readline/6.3.8/lib"\
+./configure && make
+: 1589711504:0;brew install libconfig readline lua python libevent jansson\
+export CFLAGS="-I/usr/local/include -I/usr/local/Cellar/readline/6.3.8/include"\
+export CPPFLAGS="-I/usr/local/opt/openssl/include"\
+export LDFLAGS="-L/usr/local/opt/openssl/lib -L/usr/local/lib -L/usr/local/Cellar/readline/6.3.8/lib"\
+./configure --with-openssl=/usr/local/opt/openssl  && make
+: 1589711783:0;brew install readline
+: 1589711811:0;export CFLAGS="-I/usr/local/include -I/usr/local/Cellar/readline/6.2.4/include"
+: 1589711818:0;export LDFLAGS="-L/usr/local/lib -L/usr/local/Cellar/readline/6.2.4/lib"
+: 1589711823:0;./configure && make
+: 1589711869:0;./configure --with-openssl=/usr/local/opt/openssl && make
+: 1589712133:0;brew install libreadline-dev
+: 1589712276:0;sudo apt-get install libreadline-dev
+: 1589712571:0;cd /usr/local/opt/readline/lib \
+
+: 1589712573:0;ls
+: 1589712671:0;brew install libconfig libreadline  lua python libevent jansson\
+export CFLAGS="-I/usr/local/include -I/usr/local/Cellar/readline/6.3.8/include"\
+export CPPFLAGS="-I/usr/local/opt/openssl/include"\
+export LDFLAGS="-L/usr/local/opt/openssl/lib -L/usr/local/lib -L/usr/local/Cellar/readline/6.3.8/lib"\
+./configure --with-openssl=/usr/local/opt/openssl && make
+: 1589712719:0;ln libreadline.8.0.dylib libreadline.6.2.dylib\
+
+: 1589712736:0;brew link readline --force
+: 1589712791:0;brew install libconfig readline lua python libevent jansson\
+export CFLAGS="-I/usr/local/include -I/usr/local/Cellar/readline/6.3.8/include"\
+export CPPFLAGS="-I/usr/local/opt/openssl/include"\
+export LDFLAGS="-L/usr/local/opt/openssl/lib -L/usr/local/lib -L/usr/local/Cellar/readline/6.3.8/lib"\
+./configure --with-openssl=/usr/local/opt/openssl && make
+: 1589712817:0;brew install libconfig readline lua python libevent jansson\
+export CFLAGS="-I/usr/local/include -I/usr/local/Cellar/readline/6.3.8/include"\
+export CPPFLAGS="-I/usr/local/opt/openssl/include" export LDFLAGS="-L/usr/local/opt/readline/lib"\
+  export CPPFLAGS="-I/usr/local/opt/readline/include"\
+export LDFLAGS="-L/usr/local/opt/openssl/lib -L/usr/local/lib -L/usr/local/Cellar/readline/6.3.8/lib"\
+./configure --with-openssl=/usr/local/opt/openssl && make
+: 1589712905:0;ln -s libreadline.8.dylib libreadline.7.dylib\
+
+: 1589712939:0;brew link libreadline --force
+: 1589712977:0;ln libreadline readline
+: 1589713103:0;brew upgrade
+: 1589713506:0;bin/telegram-cli -h
+: 1589713587:0;make
+: 1589713720:0;brew tap ivoputzer/tg\
+ brew install tg
+: 1589713801:0;bin/telegram-cli -h
+: 1589714004:0;\
+ brew install tg
+: 1589714185:0;brew install libssl@1.0
+: 1589714223:0;brew install openssl@1.0
+: 1589714784:0;brew tap kenorb-contrib/tg &&  brew install tg\
+
+: 1589714806:0;brew tap kenorb-contrib/tg \
+
+: 1589714863:0;brew untap ivoputzer/tg
+: 1589714870:0;brew tap kenorb-contrib/tg \
+
+: 1589714967:0;brew tap ivoputzer/tg
+: 1589715037:0;brew install tg
+: 1589715231:0;openssl -v
+: 1589715234:0;openssl -V
+: 1589715262:0;brew openssl -V
+: 1589715269:0;brew openssl version
+: 1589715281:0;brew -v openssl
+: 1589715288:0;brew -version openssl
+: 1589715292:0;brew --version openssl
+: 1589715539:0;brew install libconfig readline lua python libevent jansson\
+ export READLINEPATH=$(brew --prefix readline)\
+ export OPENSSLPATH=$(brew --prefix openssl)\
+ export CPPFLAGS="-I/usr/local/opt/openssl/include -I$READLINEPATH/include -W"\
+ export CFLAGS="-I/usr/local/include -I$READLINEPATH/include -I$OPENSSLPATH/include"\
+ export LDFLAGS="-L/usr/local/lib -L$READLINEPATH/lib -L$OPENSSLPATH/lib"\
+\
+ ./configurebrew install libconfig readline lua python libevent jansson\
+ export READLINEPATH=$(brew --prefix readline)\
+ export OPENSSLPATH=$(brew --prefix openssl)\
+ export CPPFLAGS="-I/usr/local/opt/openssl/include -I$READLINEPATH/include -W"\
+ export CFLAGS="-I/usr/local/include -I$READLINEPATH/include -I$OPENSSLPATH/include"\
+ export LDFLAGS="-L/usr/local/lib -L$READLINEPATH/lib -L$OPENSSLPATH/lib"\
+\
+ ./configure
+: 1589715571:0;brew install libconfig readline lua python libevent jansson\
+ export READLINEPATH=$(brew --prefix readline)\
+ export OPENSSLPATH=$(brew --prefix openssl)\
+ export CPPFLAGS="-I/usr/local/opt/openssl/include -I$READLINEPATH/include -W"\
+ export CFLAGS="-I/usr/local/include -I$READLINEPATH/include -I$OPENSSLPATH/include"\
+ export LDFLAGS="-L/usr/local/lib -L$READLINEPATH/lib -L$OPENSSLPATH/lib"\
+\
+ ./configure
+: 1589715620:0;brew install libconfig readline lua python libevent jansson\
+ export READLINEPATH=$(brew --prefix readline)\
+ export OPENSSLPATH=$(brew --prefix openssl)\
+ export CPPFLAGS="-I/usr/local/opt/openssl/include -I$READLINEPATH/include -W"\
+ export CFLAGS="-I/usr/local/include -I$READLINEPATH/include -I$OPENSSLPATH/include"\
+ export LDFLAGS="-L/usr/local/lib -L$READLINEPATH/lib -L$OPENSSLPATH/lib"\
+\
+ ./configure --with-openssl=/usr/local/opt/openssl
+: 1589715647:0;make
+: 1589715725:0;bin/telegram-cli
+: 1589719530:0;telegram-cli -h
+: 1589719537:0;bin/telegram-cli -h
+: 1589719660:0;telegram-cli -WRDC --json -e 'msg @Your_Jeisus Test'
+: 1589719667:0;bin/telegram-cli -WRDC --json -e 'msg @Your_Jeisus Test'
+: 1589719712:0;bin/telegram-cli -WRDC --json -e 'msg @Ere20xx Test'
+: 1589719765:0;bin/telegram-cli  -e 'msg @Ere20xx Test'
+: 1589719799:0;bin/telegram-cli -W -e 'msg @Ere20xx Test'
+: 1589720238:0;bin/telegram-cli -WRDC -e 'msg @Ere20xx "!"'
+: 1589720253:0;bin/telegram-cli
+: 1589720269:0;cd tg
+: 1589720270:0;bin/telegram-cli
+: 1589720279:0;cd ..
+: 1589720290:0;~/tg/bin/telegram-cli
+: 1589720312:0;~/tg/bin/telegram-cli -WRDC -e 'msg @Ere20xx "!"'
+: 1589720909:0;~/tg/bin/telegram-cli -WRDC -e  msg @Ere20xx "\
+c
+: 1589720939:0;~/tg/bin/telegram-cli -WRDC -e " msg @Ere20xx "{query}""
+: 1589720962:0;~/tg/bin/telegram-cli -WRDC -e " msg @Ere20xx \"{query}\""
+: 1589721000:0;~/tg/bin/telegram-cli -WRDC -e " msg @Ere20xx "{query}""
+: 1589721377:0;~/tg/bin/telegram-cli -WRDC -e " msg @Ere20xx ""\
+m\
+quit
+: 1589721407:0;~/tg/bin/telegram-cli -WRDC -e  'msg @Ere20xx \"!\"'
+: 1589721450:0;~/tg/bin/telegram-cli -WRDC -e  'msg @Ere20xx \{query\}'
+: 1589721596:0;~/tg/bin/telegram-cli -WRDC -e  'msg @Ere20xx \"!"'
+: 1589721609:0;~/tg/bin/telegram-cli -WRDC -e  'msg @Ere20xx "!"'
+: 1589721640:0;~/tg/bin/telegram-cli -WRDC -e  'msg @Ere20xx !'
+: 1589722290:0;~/tg/bin/telegram-cli -WRDC -e $(printf  'msg @Ere20xx "!"')
+: 1589723117:0;~/tg/bin/telegram-cli -WRDC -e $(printf  'msg #Ere20xx "!"')
+: 1589723175:0;~/tg/bin/telegram-cli -WRDC -e $(printf  'msg @Ere20xx "!"')
+: 1589723268:0;~/tg/bin/telegram-cli -WRDC -e 'msg @Ere20xx "!"'
+: 1589723713:0;temp+=$'test !'
+: 1589723713:0;echo $temp
+: 1589723770:0;test='123'
+: 1589723770:0;temp+=$'test $test'
+: 1589723770:0;echo $temp
+: 1589723795:0;test='123'
+: 1589723795:0;temp+=$'test \\$test'
+: 1589723795:0;echo $temp
+: 1589723901:0;test='123'
+: 1589723901:0;temp+='\
+temp+= 'test' \
+temp+= $test\
+temp+='
+: 1589723901:0;echo $temp
+: 1589723941:0;test='123'
+: 1589723941:0;temp+= 'test' 
+: 1589723941:0;temp+= $test
+: 1589723941:0;echo $temp
+: 1589723966:0;test='123'
+: 1589723967:0;temp =""
+: 1589723967:0;temp+= 'test' 
+: 1589723967:0;temp+= $test
+: 1589723967:0;echo $temp
+: 1589723990:0;test='123'
+: 1589723990:0;temp = ""
+: 1589723990:0;temp+= test
+: 1589723990:0;temp+= $test
+: 1589723990:0;echo $temp
+: 1589724015:0;test="123"
+: 1589724015:0;temp = ""
+: 1589724015:0;temp+= test
+: 1589724015:0;temp+= $test
+: 1589724016:0;echo $temp
+: 1589724035:0;test=123
+: 1589724035:0;temp = ""
+: 1589724035:0;temp+= test
+: 1589724035:0;temp+= $test
+: 1589724035:0;echo $temp
+: 1589724094:0;VAR1="Hello,"
+: 1589724094:0;VAR2=" World"
+: 1589724094:0;VAR3="$VAR1$VAR2"
+: 1589724095:0;echo "$VAR3"
+: 1589724249:0;VAR1="msg"
+: 1589724249:0;VAR2="@Ere20xx"
+: 1589724273:0;VAR1="msg"
+: 1589724274:0;VAR2="@Ere20xx"
+: 1589724318:0;VAR1="msg"
+: 1589724318:0;VAR2="1"
+: 1589724318:0;VAR4="1"
+: 1589724318:0;VAR3="$VAR1$VAR2$VAR4"
+: 1589724318:0;echo "$VAR3"
+: 1589724420:0;VAR=""
+: 1589724420:0;for ELEMENT in 'Hydrogen' 'Helium' 'Lithium' 'Beryllium'; do\
+  VAR+="${ELEMENT} "\
+done
+: 1589724420:0;echo "$VAR"
+: 1589724448:0;VAR=""
+: 1589724448:0;for ELEMENT in 'Hydrogen' ! 'Lithium' 'Beryllium'; do\
+  VAR+="${ELEMENT} "\
+done
+: 1589724449:0;echo "$VAR"
+: 1589724498:0;VAR=""
+: 1589724498:0;for ELEMENT in @Ere20xx ! 'Lithium' 'Beryllium'; do\
+  VAR+="${ELEMENT} "\
+done
+: 1589724498:0;echo "$VAR"
+: 1589724529:0;VAR=""
+: 1589724529:0;for ELEMENT in 'msg' @Ere20xx !; do\
+  VAR+="${ELEMENT} "\
+done
+: 1589724529:0;echo "$VAR"
+: 1589724560:0;VAR=""
+: 1589724569:0;for ELEMENT in ' 'msg' @Ere20xx !; do\
+  VAR+="${ELEMENT} "\
+done\
+\
+echo "$VAR"
+: 1589724602:0;VAR=""
+: 1589724602:0;for ELEMENT in 'msg' @Ere20xx !; do\
+  VAR+="${ELEMENT} "\
+done
+: 1589724602:0;echo '"$VAR"'
+: 1589724612:0;VAR=""
+: 1589724612:0;for ELEMENT in 'msg' @Ere20xx !; do\
+  VAR+="${ELEMENT} "\
+done
+: 1589724613:0;echo $'"$VAR"'
+: 1589724627:0;VAR=""
+: 1589724627:0;for ELEMENT in 'msg' @Ere20xx !; do\
+  VAR+="${ELEMENT} "\
+done
+: 1589724628:0;echo $'\\"$VAR"'
+: 1589724674:0;VAR=""
+: 1589724698:0;for ELEMENT in $'\'' 'msg' @Ere20xx !; do\
+  VAR+="${ELEMENT} "\
+done
+: 1589724698:0;echo "$VAR"
+: 1589724726:0;VAR=""
+: 1589724726:0;for ELEMENT in $'\'' 'msg' @Ere20xx ! $'\''; do\
+  VAR+="${ELEMENT} "\
+done
+: 1589724726:0;echo "$VAR"
+: 1589724816:0;VAR=""
+: 1589724816:0;for ELEMENT in $'\'' 'msg' @Ere20xx ! $'\''; do\
+  VAR+="${ELEMENT} "\
+done
+: 1589724816:0;echo "$VAR"
+: 1589725190:0;VAR=""
+: 1589725190:0;for ELEMENT in $'\'' 'msg' @Ere20xx ! $'\''; do\
+  VAR+="${ELEMENT} "\
+done
+: 1589725190:0;echo "$VAR"
+: 1589727525:0;VAR=""
+: 1589727525:0;for ELEMENT in $'\'' 'msg' "$@Ere20xx" ! $'\''; do\
+  VAR+="${ELEMENT} "\
+done
+: 1589727526:0;echo "$VAR"
+: 1589729915:0;msg=[1, 2, 3]
+: 1589729915:0;echo ${msg[@]}
+: 1589729915:0;unset msg[0]
+: 1589729915:0;echo ${msg[@]}
+: 1589730017:0;msg=(m sdsfsdf sdfdsf)
+: 1589730017:0;unset msg[0]
+: 1589730017:0;echo ${msg[@]}
+: 1589730017:0;unset msg[0]
+: 1589730018:0;echo ${msg[@]}
+: 1589730080:0;msg=(m sdsfsdf sdfdsf)
+: 1589730080:0;unset msg[1]
+: 1589730080:0;echo ${msg[@]}
+: 1589730080:0;unset msg[0]
+: 1589730080:0;echo ${msg[@]}
+: 1589730096:0;msg=(m sdsfsdf sdfdsf)
+: 1589730096:0;unset msg[1]
+: 1589730096:0;echo ${msg[@]}
+: 1589730096:0;unset msg[0]
+: 1589730096:0;echo ${msg[@]}
+: 1589730119:0;msg=(m sdsfsdf sdfdsf)
+: 1589730119:0;echo ${msg[@]}
+: 1589730119:0;unset msg[1]
+: 1589730120:0;echo ${msg[@]}
+: 1589730190:0;msg=(m sdsfsdf sdfdsf)
+: 1589730190:0;echo ${msg[@]}
+: 1589730191:0;msg[0]=""
+: 1589730191:0;echo ${msg[@]}
+: 1589730204:0;msg=(m sdsfsdf sdfdsf)
+: 1589730204:0;echo ${msg[@]}
+: 1589730204:0;msg[0]=" "
+: 1589730204:0;echo ${msg[@]}
+: 1589730226:0;msg=(m sdsfsdf sdfdsf)
+: 1589730226:0;echo ${msg[@]}
+: 1589730226:0;msg[0]="q"
+: 1589730226:0;echo ${msg[@]}
+: 1589730269:0;msg=(m sdsfsdf sdfdsf)
+: 1589730269:0;echo ${msg[@]}
+: 1589730269:0;unset 'msg[0]'
+: 1589730269:0;echo ${msg[@]}
+: 1589740662:0;nvim  "/Users/vova/Dela Delovie/My Knowledge/lists/to_do.md"
+: 1589787915:0;gatsby develop
+: 1589796436:0;gatsby build
+: 1589797012:0;cd /Users/vova/Dela\ Delovie/Party/public 
+: 1589797494:0;cd /Users/vova/Downloads/Parallax/public 
+: 1589797503:0;git add .
+: 1589797518:0;git commit -m 'changes'
+: 1589797626:0;git remote set-url origin https://github.com/Bulbariss/bulbariss.github.io.git
+: 1589797635:0;git push origin master
+: 1589810386:0;gatsby develop
+: 1589812041:0;ln -s ~/.dotfiles/zsh/zshrc ~/.zshrc\
+
+: 1589812252:0;ln -s ~/.dotfiles/zsh/bashrc ~/.bashrc\
+
+: 1589812263:0;ln -s ~/.dotfiles/zsh/bash_history ~/.bash_history\
+
+: 1589812563:0;nvim /Users/vova/.hammerspoon/Spoons/HoldToQuit.spoon 
+: 1589812971:0;ln -s ~/.dotfiles/zsh/bash_history ~/.hammerspoon/init.lua\
+
+: 1589813071:0;ln -s  ~/.hammerspoon/Spoons/HoldToQuit.spoon ~/.hammerspoon/Spoons/HoldToQuit.spoon\
+
+: 1589813187:0;ln -s ~/.dotfiles/hammerspoon/init.lua ~/.hammerspoon/init.lua\
+
+: 1589813254:0;ln -s  ~/.dotfiles/hammerspoon/Spoons/HoldToQuit.spoon ~/.hammerspoon/Spoons/HoldToQuit.spoon\
+
+: 1589813317:0;ln -s ~/.dotfiles/zsh/bashrc ~/.bashrc\
+
+: 1589813339:0;ln -s ~/.dotfiles/bash/bashrc ~/.bashrc\
+
+: 1589813352:0;ln -s ~/.dotfiles/bash/bash_history ~/.bash_history\
+
+: 1589873847:0;nvim  "/Users/vova/Dela Delovie/My Knowledge"
+: 1589874150:0;nvim  "/Users/vova/Dela Delovie/My Knowledge/lists/to_do.md"
+: 1589874697:0;ln -s  ~/.dotfiles/nvim/init.vim    ~/.config/nvim/init.vim 
+: 1589874783:0;ln -s /Users/vova/.dotfiles/nvim/coc-settings.json /Users/vova/.config/nvim/coc-settings.json \
+
+: 1589874813:0;ln -s /Users/vova/.dotfiles/nvim/.netrwhist  /Users/vova/.config/nvim/.netrwhist 
+: 1589874861:0;ln -s /Users/vova/.dotfiles/karabiner.edn /Users/vova/.config/karabiner.edn 
+: 1589874979:0;ln -s /Users/vova/.dotfiles/karabiner/karabiner.json /Users/vova/.config/karabiner/karabiner.json 
+: 1589875667:0;clear
+: 1589875686:0;ln -s /Users/vova/.dotfiles/vscode/settings.json /Users/vova/Library/Application\ Support/Code/User/settings.json 
+: 1589875712:0;ln -s /Users/vova/.dotfiles/vscode/keybindings.json /Users/vova/Library/Application\ Support/Code/User/keybindings.json 
+: 1589876113:0;cd /Users/vova/.dotfiles 
+: 1589876116:0;git init
+: 1589876131:0;git commit -m "initial commit"
+: 1589876139:0;git add .

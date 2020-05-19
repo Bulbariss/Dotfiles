@@ -1,0 +1,500 @@
+npm i gatsby-plugin-transition-link
+npm i gatsby-plugin-transition-link
+npm run start
+npm i framer-motion
+npm run start
+npm run start
+npm run start
+npm run start
+npm run start
+npm run start
+npm run start
+npm run start
+npm run start
+npm run start
+git clone https://github.com/btholt/complete-intro-to-react-v5.git
+cd complete-intro-to-react-v5/
+npm install
+npm run dev
+npm install
+npm install
+npm install
+yarn
+npm run dev
+defaults write com.google.Chrome AppleEnableSwipeNavigateWithScrolls -bool FALSE
+defaults write -g ApplePressAndHoldEnabled -bool false
+defaults write -g ApplePressAndHoldEnabled -bool true
+defaults write -g ApplePressAndHoldEnabled -bool false
+defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}'; killall Dock
+npm run dev
+npm run start
+npm run start
+npm run start
+npm install --save styled-jsx-plugin-postcss
+npm install --save styled-jsx
+npm i
+clear
+npm install --save-dev babel-preset-gatsby
+node -v
+node -h
+node update
+Homebrew
+MacPorts
+Nvm
+N
+nvm
+homebrew
+node -v
+node -v
+clear
+npm run start
+exexit 1
+exit 1
+npm run start
+exit 1exit 1
+npm i
+npm i eslint-plugin-react-hooks typescript eslint-loader
+npm run start
+exit 1
+gatsby clean
+sudo  gatsby-cli update
+gatsby-cli -v
+npm run start
+exit 1
+exit 1
+npm run start
+npm run start
+npm i @babel/plugin-transform-typescript
+npm i @babel/plugin-proposal-optional-chaining
+npm run start
+npm run start
+npm run start
+exit 1
+npm run start
+exit 1
+defaults write com.google.Chrome AppleEnableSwipeNavigateWithScrolls -bool TRUE
+npm run start
+cd Downloads/
+gzip tst.js
+/Volumes/Adobe\ Zii\ 2020\ 5.2.0/Open\ Gatekeeper\ friendly ; exit;
+/Volumes/Adobe\ XD\ v28.5.12/Extra/Install.app/Contents/MacOS/Install ; exit;
+/Volumes/Adobe\ Illustrator\ 2020\ v24.1/Extra/Install.app/Contents/MacOS/Install ; exit;
+/Volumes/Adobe\ Photoshop\ 2020\ v21.1.2/Extra/Install.app/Contents/MacOS/Install ; exit;
+npm i
+npm i eslint-loader eslint-plugin-react-hooks
+npm i
+/Volumes/Adobe\ Zii\ 2020\ 5.2.0/Open\ Gatekeeper\ friendly ; exit;
+/Volumes/Adobe\ Zii\ 2020\ 5.1.8/Open\ Gatekeeper\ friendly ; exit;
+/Volumes/Adobe\ Illustrator\ 2020\ v24.1/Extra/Install.app/Contents/MacOS/Install ; exit;
+pip
+pip install pandas
+pyphon
+python
+brew
+brew install python
+brew install python
+python --version
+brew link python
+python --version
+brew link --overwrite python
+python --version
+brew link python
+sudo brew unlink python && brew link python
+brew unlink python && brew link python
+python --version
+brew link python
+python3
+pip install pandas
+brew pip
+ln -s -f /usr/local/bin/python3.7 /usr/local/bin/python
+python -V
+pip3 --version
+pip3 install pandas
+pip install --upgrade pip
+pip3 install --upgrade pip
+pip install --upgrade pip
+pip3 install tkinter
+pip3 install tkinter
+cd Downloads/
+python
+/Users/vova/Desktop/tst.py 
+/usr/local/bin/python /Users/vova/.vscode/extensions/ms-python.python-2020.4.74986/pythonFiles/pyvsc-run-isolated.py pip install -U autopep8 --user
+mkdir Environments
+cd Environments
+python3.7 -m venv my_env
+source my_env/bin/activate
+nano hello.py
+python hello.py
+nano tst.py
+python tst.py
+pip3 install pandas
+python tst.py
+python tst.py
+pip3 install xlrd
+python tst.py
+nano tst.py
+python tst.py
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+clear
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+clear
+clear
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+clear
+clear
+clear
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+clear
+clear
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+clear
+clear
+clear
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+clear
+clear
+clear
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+python readCsv.py 
+brew install vim
+vim -V
+cd Environments/
+python hello.py 
+python3.7 -m venv my_env
+python -m venv my_env
+source my_env/bin/activate
+python hello.py 
+python hello.py 
+python hello.py 
+python hello.py 
+python hello.py 
+clear
+python hello.py 
+python hello.py 
+python hello.py 
+1
+python hello.py 
+python hello.py 
+clear
+python hello.py 
+python hello.py 
+clear
+python hello.py 
+python hello.py 
+clear
+python hello.py 
+python hello.py 
+python hello.py 
+python hello.py 
+python hello.py 
+python hello.py 
+/Users/vova/Environments/output/hello ; exit;
+/Users/vova/Environments/output/hello ; exit;
+brew cask install mattr-slate
+python3.7 -m venv my_env
+my_env/bin/activate
+source my_env/bin/activate
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+clear
+clear
+clear
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python hello.py 
+python hello.py 
+python hello.py 
+python hello.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+clear
+python hello.py 
+python hello.py 
+python hello.py 
+python hello.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python hello.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+clear
+python hello.py 
+python testcsv.py 
+clear 
+python hello.py 
+python testcsv.py 
+python testcsv.py 
+clear
+python hello.py 
+python testcsv.py 
+python hello.py 
+python hello.py 
+python hello.py 
+python hello.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python hello.py 
+python hello.py 
+python hello.py 
+python hello.py 
+python hello.py 
+clear
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python hello.py 
+clear
+python hello.py 
+python hello.py 
+python hello.py 
+python hello.py 
+python hello.py 
+python hello.py 
+python hello.py 
+python hello.py 
+python hello.py 
+python hello.py 
+python hello.py 
+python hello.py 
+python hello.py 
+clear
+python hello.py 
+python hello.py 
+pip3 install docx
+pip install --upgrade pip
+python hello.py 
+python hello.py 
+python hello.py 
+clear
+python hello.py 
+pip install python-docx 
+pip uninstall docx
+python hello.py 
+python hello.py 
+python hello.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+clear
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+python testcsv.py 
+clear
+clear
+python testcsv.py 
+python hello.py 
+python hello.py 
+python hello.py 
+python hello.py 
+python hello.py 
+python hello.py 
+python hello.py 
+python hello.py 
+pip3 install auto-py-to-exe
+auto-py-to-exe
+/usr/local/bin/python
+vim
+git add .
+git commit -m ''
+git push -u origin master
+git push -u origin master ttps://github.com/Bulbariss/My-Knowledge.git
+git push -u origin master https://github.com/Bulbariss/My-Knowledge.git
+git push -u origin master https://github.com/Bulbariss/My-Knowledge
+git remote add origin https://github.com/Bulbariss/My-Knowledge.git
+git push -u origin master
+git push -u origin master
+git add .
+git commit -m 'first commit'
+ git config --global --edit
+git commit -m 'first commit'
+git clone https://github.com/Bulbariss/My-Knowledge.git
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+brew install zsh
+nano /Users/vova/.npm/_logs/2020-05-01T17_37_59_826Z-debug.log
+vimtutor
+echo 1
+ls
+:w
+:q
+close
+quit
+exit
+exit 1
+exit
+exit
+exit
+wget -P ~/ https://github.com/OpenVPN/easy-rsa/releases/download/v3.0.7/EasyRSA-3.0.7.tgz

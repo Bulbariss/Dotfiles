@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/Users/vova/Dela Delovie/My Knowledge/utils'
+let g:netrw_dirhist_4='/Users/vova/Dela Delovie/My Knowledge'
+let g:netrw_dirhist_3='/Users/vova/.hammerspoon/Spoons/HoldToQuit.spoon'
+let g:netrw_dirhist_2='/Users/vova/Dela Delovie/md preview css'
+let g:netrw_dirhist_1='/Users/vova/Dela Delovie'
+let g:netrw_dirhist_0='/Users/vova/Dela Delovie/My Knowledge/lists'
+let g:netrw_dirhist_9='/Users/vova/Dela Delovie/My Knowledge'
+let g:netrw_dirhist_8='/Users/vova/Dela Delovie'
+let g:netrw_dirhist_7='/Users/vova/Dela Delovie/My Knowledge/lists'
+let g:netrw_dirhist_6='/Users/vova/Dela Delovie/My Knowledge'
