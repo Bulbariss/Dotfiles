@@ -902,3 +902,241 @@ done
 : 1589876116:0;git init
 : 1589876131:0;git commit -m "initial commit"
 : 1589876139:0;git add .
+: 1589876141:0;git commit -m "initial commit"
+: 1589876149:0;git remote add origin https://github.com/Bulbariss/dotfiles.git
+: 1589876155:0;git push -u origin master
+: 1589877488:0;sudo xattr -r -d com.apple.quarantine
+: 1589877640:0;sudo xattr -r -d com.apple.quarantine /Applications/MindNode.app 
+: 1589880328:0;nvim  "/Users/vova/Dela Delovie/My Knowledge"
+: 1589897264:0;gatsby develop
+: 1589982166:0;start-storybook -p 6006
+: 1589982174:0;npm run start-storybook -p 6006
+: 1589982188:0;npm run storyboob
+: 1589982190:0;npm run storybook
+: 1589984473:0;gatsby build
+: 1589984673:0;npm run storybook
+: 1589984884:0;gatsby build
+: 1589985115:0;npm run storybook
+: 1590050480:0;npm i
+: 1590052341:0;nvim  "/Users/vova/Dela Delovie/My Knowledge"
+: 1590082995:0;nvim  "/Users/vova/Dela Delovie/My Knowledge/lists/to_do.md"
+: 1590084487:0;nvim  "/Users/vova/Dela Delovie/My Knowledge"
+: 1590085729:0;nvim  "/Users/vova/Dela Delovie/My Knowledge/lists/to_do.md"
+: 1590085748:0;nvim  "/Users/vova/Dela Delovie/My Knowledge"
+: 1590089514:0;nvim  "/Users/vova/Dela Delovie/My Knowledge/web_dev_resources/colors.md"
+: 1590090243:0;nvim  "/Users/vova/Dela Delovie/My Knowledge"
+: 1590140140:0;nvim  "/Users/vova/Dela Delovie/My Knowledge/stuff_to_buy/stuff_to_buy.md"
+: 1590148077:0;nvim  "/Users/vova/Dela Delovie/My Knowledge/lists/to_do.md"
+: 1590157740:0;nvim  "/Users/vova/Dela Delovie/My Knowledge"
+: 1590160924:0;tell application "iTerm2"
+: 1590161528:0;		delay 1
+: 1590161595:0;tell application "iTerm2"
+: 1590161952:0;nvim  "/Users/vova/Dela Delovie/My Knowledge"
+: 1590161992:0;nvim  "/Users/vova/Dela Delovie/My Knowledge/lists/to_do.md"
+: 1590171432:0;nvim  "/Users/vova/Dela Delovie/My Knowledge"
+: 1590221404:0;gatsby develop
+: 1590236515:0;nvim  "/Users/vova/Dela Delovie/My Knowledge"
+: 1590309141:0;ç
+: 1590309144:0;gatsby develop
+: 1590333680:0;npm run storybook
+: 1590338861:0;npm install --save-dev @storybook/addon-actions @storybook/addon-info @storybook/addon-knobs @storybook/addon-notes @storybook/addons
+: 1590339141:0;npm run storybook
+: 1590339274:0;npm i babel-plugin-remove-graphql-queries
+: 1590339398:0;npm run storybook
+: 1590339674:0;npm -h
+: 1590339692:0;npm uninstall babel-plugin-remove-graphql-queries
+: 1590339780:0;npm run storybook
+: 1590479665:0;npm install storybook-addon-performance @storybook/addon-viewport @storybook/addon-actions  --save-dev\
+
+: 1590479755:0;npm audit fix
+: 1590480308:0;npm run storybook
+: 1590484115:0;npm i swiper
+: 1590484162:0;npm run storybook
+: 1590484307:0;npm i framer-motion
+: 1590590271:0;nvim  "/Users/vova/Dela Delovie/My Knowledge/fonts/tools.md"
+: 1590590423:0;nvim  "/Users/vova/Dela Delovie/My Knowledge"
+: 1590740362:0;y
+: 1590740370:0;nvim  "/Users/vova/Dela Delovie/My Knowledge"
+: 1590741960:0;qlmanage -r
+: 1590742423:0;brew cask install qlstephen\
+
+: 1590742504:0;qlmanage -r
+: 1590742594:0;nvim  "/Users/vova/Dela Delovie/My Knowledge/fonts/age.md"
+: 1590742686:0;open /usr/share/sandbox/age.png
+: 1590744457:0;nvim/usr/share/sandbox/quicklookd.sb 
+: 1590744464:0;nvim /usr/share/sandbox/quicklookd.sb 
+: 1590746077:0;sandbox-exec -f ls2 xattr /mach_kernel
+: 1590746085:0;sandbox-exec -f ls xattr /mach_kernel
+: 1590747364:0;nvim  "/Users/vova/Dela Delovie/My Knowledge/fonts/val.md"
+: 1590777929:0;nvim  "/Users/vova/Dela Delovie/My Knowledge/books/books_to_read.md"
+: 1590848290:0;nvim  "/Users/vova/Dela Delovie/My Knowledge"
+: 1590913238:0;ping google.com
+: 1590913284:0;ping easyship.ru
+: 1590920076:0;ping google.com
+: 1591005654:0;nvim  "/Users/vova/Dela Delovie/My Knowledge"
+: 1591110604:0;npm install -g svgo
+: 1591110617:0;curl -sS https://raw.githubusercontent.com/svg/svgo-osx-folder-action/master/install.sh | sh\
+\
+
+: 1591111360:0;cd Downloads
+: 1591111368:0;nvim testing.svg
+: 1591111650:0;svgo /Users/vova/Downloads/testing.svg 
+: 1591111671:0;nvim testing.svg
+: 1591115142:0;svgo
+: 1591115232:0;svgo -f /Users/vova/Downloads/ssss/
+: 1591115541:0;nvim ssss/testing.svg
+: 1591184667:0;64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;10M64;21;10M64;21;10M64;21;10M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;10M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;10M64;21;10M64;21;10M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;10M64;21;10M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;10M64;21;10M64;21;11M64;21;11M64;21;11M64;21;11M64;21;10M64;21;11M64;21;11M64;21;11M64;21;10M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;21;11M64;33;23M0;33;23M0;33;23m
+: 1591189475:0;nvim  "/Users/vova/Dela Delovie/My Knowledge"
+: 1591270400:0;npm init
+: 1591270423:0;npm install canvas-sketch-cli --global\
+
+: 1591270694:0;npm install canvas-sketch-cli -g\
+
+: 1591270786:0;npm install canvas-sketch-util --save\
+
+: 1591270940:0;canvas-sketch
+: 1591270975:0;canvas-sketch sketch --new --open
+: 1591274358:0;npm i canvas-sketch-util
+: 1591277360:0;npm i nice-color-palletes
+: 1591277400:0;npm i nice-color-paletes
+: 1591277407:0;npm i nice-color-palettes
+: 1591298016:0;canvas-sketch sketch --new --open
+: 1591298025:0;canvas-sketch sketch 
+: 1591350097:0;canvas-sketch sketch --open
+: 1591374141:0;canvas-sketch sketch 
+: 1591374145:0;canvas-sketch sketch --open
+: 1591428082:0;canvas-sketch test --open
+: 1591428250:0;canvas-sketch canvas-dot-flower.js --open
+: 1591435525:0;canvas-sketch webgl.js --new --template=three\
+  
+: 1591436713:0;canvas-sketch cube.js --open
+: 1591436828:0;canvas-sketch cube.js --new --template=three\
+  
+: 1591436836:0;canvas-sketch cube.js --template=three\
+  
+: 1591436959:0;canvas-sketch cube.js --open
+: 1591445478:0;canvas-sketch cube.js --output=tmp/
+: 1591445910:0;npm install eases\
+  
+: 1591446219:0;npm install bezier-easing\
+  
+: 1591449204:0;canvas-sketch shader.js --new --template=shader\
+  
+: 1591450143:0;canvas-sketch shader.js \
+  
+: 1591450171:0;canvas-sketch shader.js --template=shader\
+  
+: 1591454392:0;npm install glsl-noise
+: 1591454934:0;npm i glsl-hsl2rgb
+: 1591457166:0;nvim  "/Users/vova/Dela Delovie/My Knowledge/web_dev_resources/colors.md"
+: 1591457818:0;canvas-sketch shader.js --template=shader\
+  
+: 1591465653:0;youtube-dl -f https://www.youtube.com/watch\?v\=eLpbc1N9BB8
+: 1591465663:0;youtube-dl -h
+: 1591465721:0;youtube-dl -F https://www.youtube.com/watch\?v\=eLpbc1N9BB8
+: 1591465775:0;cd Downloads
+: 1591465778:0;youtube-dl -f 251 https://www.youtube.com/watch\?v\=eLpbc1N9BB8
+: 1591465830:0;clear
+: 1591469997:0;canvas-sketch shader.js --template=shader --output=tst/\
+  
+: 1591471811:0;nvim  "/Users/vova/Dela Delovie/My Knowledge"
+: 1591519102:0;canvas-sketch sketch.js --new --template=three\
+  
+: 1591602587:0;git clone https://github.com/patriciogonzalezvivo/thebookofshaders.git\
+
+: 1591602696:0;cd thebookofshaders\
+
+: 1591602704:0;make clean epub\
+
+: 1591602781:0;make clean pdf\
+
+: 1591607530:0;npm storybook\
+
+: 1591607540:0;npm run storybook\
+
+: 1591615105:0;npm i
+: 1591616697:0;npm run storybook\
+
+: 1591626203:0;canvas-sketch shader.js --new --template=three\
+  
+: 1591626400:0;canvas-sketch shader2.js --new --template=three --open\
+  
+: 1591634069:0;npm install glsl-noise\
+  
+: 1591639157:0;nvim  "/Users/vova/Dela Delovie/My Knowledge"
+: 1591639503:0;nvim  "/Users/vova/Dela Delovie/My Knowledge/cheatsheets/markdown.md"
+: 1591640975:0;nvim  "/Users/vova/Dela Delovie/My Knowledge"
+: 1591641162:0;nvim  "/Users/vova/Dela Delovie/My Knowledge/cheatsheets/markdown.md"
+: 1591642829:0;visual\ studio\ code
+: 1591642835:0;code
+: 1591643305:0;cd Down
+: 1591643307:0;cd Downloads
+: 1591643318:0;nvim tttt.md
+: 1591643382:0;nvim /Users/vova/Downloads/tttt.md
+: 1591643520:0;echo it works!
+: 1591644500:0;nvim
+: 1591644544:0;nvim $@
+: 1591644640:0;nvim "$@"
+: 1591644891:0;nvim "thefolder"
+: 1591645641:0;nvim Macintosh HD:Users:vova:Downloads:tttt.md
+: 1591646183:0;nvim
+: 1591646226:0;nvim "p"
+: 1591646301:0;nvim "@p"
+: 1591646396:0;/current application
+: 1591646410:0;/Users/vova/Downloads/tttt.md
+: 1591646441:0;nvim /Users/vova/Downloads/tttt.md
+: 1591646553:0;nvim  "$p"
+: 1591646645:0;nvim/Users/vova/Downloads/tttt.md
+: 1591646766:0;nvim
+: 1591647056:0;nvim'/Users/vova/Downloads/tttt.md'
+: 1591647073:0;nvim '/current application'
+: 1591647080:0;nvim '/Users/vova/Downloads/tttt.md'
+: 1591648026:0;nvim '/Users/vova/Dela Delovie/My Knowledge/lists/to_do.md'
+: 1591648046:0;nvim '/Users/vova/Dela Delovie/My Knowledge/blogs/blogs.md'
+: 1591648211:0;echo it works!
+: 1591648326:0;nvim '/current application'
+: 1591648332:0;nvim '/Users/vova/Dela Delovie/My Knowledge/lists/to_do.md'
+: 1591648435:0;nvim '/Users/vova/Dela Delovie/My Knowledge/projects/css_transforms.md'
+: 1591687577:0;ln -s /Users/vova/.automator/nvim/NVim.app /Applications/NVim.app
+: 1591687707:0;ln -s '/Users/vova/.automator/svgo/Minify SVG.workflow' '/Users/vova/Library/Services/Minify SVG.workflow'
+: 1591687729:0;nvim '/Users/vova/Downloads/tttt.md'
+: 1591687764:0;'/Users/vova/Library/Services/Minify SVGs in folder.workflow' 
+: 1591687773:0;cd `
+: 1591687776:0;cd ~
+: 1591687799:0;ln -s '/Users/vova/.automator/svgo/Minify SVGs in folder.workflow' '/Users/vova/Library/Services/Minify SVGs in folder.workflow'
+: 1591687816:0;/Users/vova/.automator 
+: 1591687873:0;nvim .gitignore
+: 1591687906:0;git init
+: 1591687979:0;git commit -m "first commit"
+: 1591687987:0;git add .
+: 1591687988:0;git commit -m "first commit"
+: 1591687995:0;git remote add origin https://github.com/Bulbariss/automator.git
+: 1591688000:0;git push -u origin master
+: 1591688049:0;nvim README.md
+: 1591688090:0;nvim '/Users/vova/.automator/README.md'
+: 1591688426:0;git add .
+: 1591688452:0;git commit -m 'added readme'
+: 1591688473:0;git push -u origin master
+: 1591689493:0;git add .
+: 1591689512:0;git commit -m 'updated icons'
+: 1591689531:0;git push origin master
+: 1591689701:0;canvas-sketch shader2.js --template=three --open\
+  
+: 1591691712:0;npm i glsl-aastep
+: 1591695429:0;echo 1 
+: 1591696248:0;echo 2
+: 1591696276:0;echo 3 
+: 1591696283:0;echo 1
+: 1591696342:0;echo 1 
+: 1591696364:0;echo 3 
+: 1591696372:0;echo 1 
+: 1591696412:0;echo 3 
+: 1591696415:0;echo 2
+: 1591696854:0;echo 1 
+: 1591696940:0;echo 2
+: 1591697014:0;echo 1 
+: 1591697060:0;echo 2
+: 1591697145:0;nvim '/Users/vova/Downloads/tttt.md'
+: 1591697356:0;nvim '/Users/vova/Dela Delovie/My Knowledge/books/books_to_read.md'
+: 1591697550:0;nvim '/Users/vova/Downloads/tttt.md'
+: 1591697729:0;'/Users/vova/.automator/nvim/NVim.app/Contents/MacOS/Application Stub'; exit
